@@ -39,7 +39,7 @@ I'm a Master's student in **Computer Science for Digital Media** at Bauhaus-Univ
 | **LLM Debate Arena & Argument Retrieval** | Multi-agent LLM-vs-LLM debate system. Extracts claims, premises & stance from ~4,400 Reddit ChangeMyView comments and serves them via a retrieval API. ~96.4% extraction success · sub-200ms latency · 4,402 indexed docs | Python · FastAPI · Elasticsearch · Ollama · Llama 3.2 · BM25 |
 | **webMCP Agent** | AI-agent-to-website communication via the webMCP protocol — the agent perceives webMCP-enabled sites and performs actions across a repository of mock sites | Python · Mistral API · webMCP · AI Agents |
 | **Signature Classification (CNN)** | End-to-end image-classification pipeline in TensorFlow/Keras: data loading, augmentation, a trained CNN, and a desktop GUI for inference on signature images | Python · TensorFlow/Keras · OpenCV · Jupyter  |
-| **Commodity Price Predictor** | ML pipeline forecasting commodity prices from historical data | Python · scikit-learn · Pandas · Jupyter |
+| **Price Predictor + Streamlit App** | Four ML regression models (laptop, car, house, bike) served through one interactive Streamlit app; configured for Heroku deployment | Python · scikit-learn · Streamlit · Pandas |
 
 ---
 
