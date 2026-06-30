@@ -38,8 +38,8 @@ I'm a Master's student in **Computer Science for Digital Media** at Bauhaus-Univ
 | --- | --- | --- |
 | **[Argument Retrieval API](https://github.com/rosenmeet/DEBATE-Elasticsearch)** — LLM Debate Arena | Elasticsearch + FastAPI retrieval backend for a multi-agent LLM-vs-LLM debate system. 7 endpoints: BM25 + semantic search, topic/argument clustering, claim-premise level scoring. 4,612 enriched CMV Reddit arguments, 435 topics | Python · FastAPI · Elasticsearch · sentence-transformers · Ollama (Llama 3.1) · scikit-learn |
 | **webMCP Agent** | AI-agent-to-website communication via the webMCP protocol — the agent perceives webMCP-enabled sites and performs actions across a repository of mock sites | Python · Mistral API · webMCP · AI Agents |
-| **Signature Classification (CNN)** | End-to-end image-classification pipeline in TensorFlow/Keras: data loading, augmentation, a trained CNN, and a desktop GUI for inference on signature images | Python · TensorFlow/Keras · OpenCV · Jupyter  |
-| **Price Predictor + Streamlit App** | Four ML regression models (laptop, car, house, bike) served through one interactive Streamlit app; configured for Heroku deployment | Python · scikit-learn · Streamlit · Pandas |
+| **[Signature Classification (CNN)](https://github.com/rosenmeet/Signature-Detection-cnn)** | End-to-end image-classification pipeline in TensorFlow/Keras: data loading, augmentation, a trained CNN, and a desktop GUI for inference on signature images | Python · TensorFlow/Keras · OpenCV · Jupyter |
+| **[Price Predictor + Streamlit App](https://github.com/rosenmeet/Commodity-price-predictor)** | Four ML regression models (laptop, car, house, bike) served through one interactive Streamlit app; configured for Heroku deployment | Python · scikit-learn · Streamlit · Pandas |
 
 ---
 
